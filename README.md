@@ -10,7 +10,7 @@
    BOT_TOKEN=123456:ABC-DEF...
    
 3. Установи зависимости:
-```bash
+   
 pip install -r requirements.txt
 
 4. Запусти:
