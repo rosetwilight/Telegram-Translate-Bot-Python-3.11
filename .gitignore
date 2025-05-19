@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+bot-env/
+dist/
+build/
+translate.spec
